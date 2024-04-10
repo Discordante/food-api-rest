@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Discordante/food-api-rest)
+
 # Food API
 
 A REST API built with NestJS for managing a food catalog is an educational project aimed at demonstrating the principles of web API development using a modern Node.js framework. This project serves as a practical guide to understanding API design, database management and more. The main goal of this API is to manage detailed information about various dishes, including their ingredients, nutritional values, potential allergens, and tags or categories to help users find and select dishes based on specific dietary preferences or needs.
@@ -20,6 +22,13 @@ A REST API built with NestJS for managing a food catalog is an educational proje
   - PostgreSQL is a popular choice for handling structured data in applications and offers features like ACID compliance and extensibility.
 
 These technologies, when combined, provide a solid foundation for building efficient, maintainable, and feature-rich applications.
+
+## API Documentation
+
+For a detailed description of the API, including routes, parameters, and expected responses, please visit my [API documentation](https://api-food.dcbravo.com/api/v1/docs).
+
+This documentation is designed to be easy to navigate, helping you to quickly and effectively integrate with our API.
+
 
 ## Installation
 
